@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi! I'm Bob. I'm new here!
 Some text from Master Branch!
 Need to check gitk
+=======
+Hi! I'm Bob. Hi!! I'm Bob. I've been here for a while now.
+>>>>>>> Modified Bob.txt on master branch
