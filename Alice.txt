@@ -1,1 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. And I created a new branch! Added some text on Alice from changed_alice branch. Added some more text for rebase chapter!
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. And I created a new branch! Added some text on Alice from changed_alice branch. Added some more text for rebase chapter! And antoher also for rebase
